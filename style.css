@@ -121,6 +121,7 @@ body {
   display: flex;
   justify-content: center;
   padding-bottom: 28px;
+  overflow: hidden;
 }
 
 .box > .box-body > img {
